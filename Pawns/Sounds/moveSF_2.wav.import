@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/moveSF_2.wav-a18ccf8e1cfb2fbb381274140f411a5d.sample"
+
+[deps]
+
+source_file="res://Pawns/Sounds/moveSF_2.wav"
+dest_files=[ "res://.import/moveSF_2.wav-a18ccf8e1cfb2fbb381274140f411a5d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
